@@ -1,0 +1,14 @@
+# Data — too large for GitHub; download from Kaggle instead
+*.csv
+PaySim_Data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
